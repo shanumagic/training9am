@@ -1,0 +1,9 @@
+technologies :
+html
+css
+node
+java script 
+monogo db
+sql 
+mysql
+
